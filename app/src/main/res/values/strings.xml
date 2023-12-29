@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Repass</string>
+
+    // Main screen
+
+    <string name="screen_mode">Screen mode</string>
+    <string name="add_document">Add document</string>
+    <string name="clear_screen">Clear screen</string>
+
+    // Document sets
+    
+    <string name="set_all">None</string>
+    <string name="set_ru">Russia</string>
+
+    // Document forms
+
+    <string name="form_none">None</string>
+    <string name="form_passport">Passport</string>
+    <string name="form_passport_ru">R.F. Passport</string>
+    <string name="form_passport_us">U.S. Passport</string>
+    <string name="form_passport_authority">Authority</string>
+    <string name="form_passport_birth_date">Birth date</string>
+    <string name="form_passport_birth_place">Birth place</string>
+    <string name="form_passport_code">Code</string>
+    <string name="form_passport_expiration_date">Date of expiration</string>
+    <string name="form_passport_id">Id.</string>
+    <string name="form_passport_issue_date">Date of issue</string>
+    <string name="form_passport_issue_place">Place of issue</string>
+    <string name="form_passport_name">Name</string>
+    <string name="form_passport_nationality">Nationality</string>
+    <string name="form_passport_no">No.</string>
+    <string name="form_passport_sex">Sex</string>
+
+    <string name="form_visit_card">Visit card</string>
+    <string name="form_visit_card_email">Email</string>
+    <string name="form_visit_card_number">Phone number</string>
+
+    // Password fields
+
+    <string name="pass_gosuslugi">Gosuslugi</string>
+</resources>
